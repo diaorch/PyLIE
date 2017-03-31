@@ -4,8 +4,9 @@
 ### Notebook types
 
 List of notebook to be presented
- + [ ] Juypter notebook
- + [ ] Markdown
+ + [x] Juypter notebook
+ + [ ] Markdown example of Bash/Shell
+ + [ ] Markdown example of Python
  + [ ] R markdown
 
 
@@ -13,4 +14,3 @@ List of notebook to be presented
 ### Directory management on server
 ### Git
 ### GitHub
-
