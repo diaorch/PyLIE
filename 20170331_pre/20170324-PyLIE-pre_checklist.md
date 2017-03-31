@@ -7,7 +7,7 @@ List of notebook to be presented
  + [x] Juypter notebook
  + [ ] Markdown example of Bash/Shell
  + [ ] Markdown example of Python
- + [ ] R markdown
+ + [x] R markdown
 
 
 ## Presentation
