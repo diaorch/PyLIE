@@ -2,7 +2,7 @@
 title: "R markdown notebook taking example"
 author: "nemo13_diaorch"
 date: "March 31, 2017"
-output: pdf_document
+output: html_document
 ---
 
 ```{r setup, include=FALSE}
@@ -16,8 +16,6 @@ This is a R Markdown example demonstrating using GitHub to render R Markdown as 
 
 This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.  
 
-When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:  
-
 ## Example of boxplot plotting
 
 ```{r boxplot, fig.width=6, fig.height=4, echo=TRUE}
@@ -26,7 +24,8 @@ p <- ggplot(mtcars, aes(factor(cyl), mpg))
 p + geom_boxplot(aes(fill = factor(vs)))
 ```
 
-Inserted here is an example of \LaTeX rendering equation. The next figure is plotting `mtcars` data set with facet of: 
+Inserted here is an example of $\LaTeX$ rendering equation. The next figure is plotting `mtcars` data set with facet of:  
+
 $$
 (carb \sim gear)
 $$
