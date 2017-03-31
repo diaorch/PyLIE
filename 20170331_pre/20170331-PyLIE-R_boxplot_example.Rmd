@@ -2,7 +2,7 @@
 title: "R markdown notebook taking example"
 author: "nemo13_diaorch"
 date: "March 31, 2017"
-output: html_document
+output: github_document
 ---
 
 ```{r setup, include=FALSE}
