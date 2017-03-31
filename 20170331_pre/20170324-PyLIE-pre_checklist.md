@@ -4,9 +4,9 @@
 ### Notebook types
 
 List of notebook to be presented
- + Juypter notebook
- + Markdown
- + R markdown
+ + [ ] Juypter notebook
+ + [ ] Markdown
+ + [ ] R markdown
 
 
 ## Presentation
