@@ -26,7 +26,7 @@ p + geom_boxplot(aes(fill = factor(vs)))
 
 Inserted here is an example of $\\LaTeX$ rendering equation. The next figure is plotting `mtcars` data set with facet of:
 
-(*carb* ∼ *gear*)
+(*c**a**r**b* ∼ *g**e**a**r*)
 
 ``` r
 p <- ggplot(mtcars, aes(factor(cyl), mpg))
